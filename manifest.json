@@ -1,0 +1,12 @@
+{
+    "id": "ExportVisibleFiles",
+    "name": "Export Visible Files",
+    "version": "1.0.0",
+    "author": "Linus",
+    "description": "Export all visible components and bodies to separate files",
+    "language": "Python",
+    "entry": "ExportVisibleFiles.py",
+    "minimumVersion": "2.0.0",
+    "workspace": ["FusionSolidEnvironment"],
+    "panel": ["SolidCreatePanel"]
+}
